@@ -6,5 +6,5 @@ app.listen(4000,function(){
 })
 
 app.get('/',(req,res)=>{
-    res.send('Welcome to the configuration Service hosted on the cloud')
+    res.send('Welcome to the configuration Service hosted on the cloud Version 2')
 })
